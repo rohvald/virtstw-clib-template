@@ -1,5 +1,7 @@
 # Vite React-TS-SB-TW Library Template
 
+A template for build a Vite React TypeScript components library, featuring StoryBook and TailwindCSS.
+
 ## Usage
 
 1. Import library stylesheet: `import '@<package_name>/style.css'`
