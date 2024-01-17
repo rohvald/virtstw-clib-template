@@ -1,6 +1,6 @@
 # Vite React-TS-SB-TW Library Template
 
-A template for build a Vite React TypeScript components library, featuring StoryBook and TailwindCSS.
+A template for build a Vite-React-TypeScript UI components library, featuring StoryBook, TailwindCSS and GitHub Actions workflow to publish new releases to npm.
 
 ## Usage
 
