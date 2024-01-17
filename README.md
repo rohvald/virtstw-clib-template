@@ -11,7 +11,7 @@ A template for building a UI components library featuring:
 ## Usage
 
 1. Import library stylesheet: `import '@<package_name>/style.css'`
-2. Tailwind classes are prefixed with `fvlt-` (you can change this in `tailwind.config.js`)
+2. Tailwind classes are prefixed with `fvlt-` (editable in `tailwind.config.js`)
 
 ## Scripts
 
